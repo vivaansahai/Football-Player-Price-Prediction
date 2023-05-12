@@ -1,0 +1,6 @@
+flask
+pickle5
+pandas
+streamlit==1.20.0
+numpy>=1.9.2
+scikit-learn>=0.18
